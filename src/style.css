@@ -1,0 +1,8 @@
+.ant-modal-content {
+    overflow: auto;
+    border-radius: 1rem;
+  }
+  
+li{
+    margin: 10px 0;
+}
